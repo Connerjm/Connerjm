@@ -2,7 +2,7 @@
 
 This is something I discovered recently and am still playing around with so it will be under construction for a while.
 
-[![Connerjm's GitHub stats](https://github-readme-stats.vercel.app/api?username=connerjm&show_icons=true&theme=tokyonight)](https://github.com/connerjm/github-readme-stats)
+[![Connerjm's GitHub stats](https://github-readme-stats.vercel.app/api?username=connerjm&show_icons=true&theme=tokyonight)](https://github.com/connerjm/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connerjm&theme=tokyonight&layout=compact)](https://github.com/connerjm/)
 
