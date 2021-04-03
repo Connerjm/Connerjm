@@ -8,7 +8,7 @@ My name is Conner, and I am currently enrolled in a full-stack boot camp hosted 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connerjm&theme=tokyonight&layout=compact)](https://github.com/connerjm/)
 
-Now, for some information about myself:
-From- Washington State, the Great PNW
-Age- 27
-Pronouns- He/Him
+- Now, for some information about myself:
+- From- Washington State, the Great PNW
+- Age- 27
+- Pronouns- He/Him
